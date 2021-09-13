@@ -1,0 +1,74 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bienvenido{
+    text-align: center;
+    margin-left: 50px;
+}
+
+.presentacion{
+    text-align: center;
+    background-color: #BEF07F;
+    width: 650px;
+    margin-left: 35%;
+    border-radius: 50px;
+    padding-top: 20px;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+.presentacion img{
+    background-color: red;
+    margin-bottom: 75px;
+    height: 700px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 50px;
+}
+
+.seccion2{
+    text-align: center;
+    background-color: #BEF07F;
+    width: 650px;
+    margin-left: 35%;
+    border-radius: 50px;
+    padding-top: 20px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.seccion3{
+    text-align: center;
+    background-color: #BEF07F;
+    position: fixed;
+    left: 0px;
+    top: 100px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 50px;
+}
+
+.seccion3 a{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.video{
+    text-align: center;
+    background-color: #BEF07F;
+    width: 650px;
+    margin-left: 35%;
+    border-radius: 50px;
+    padding-top: 20px;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+.video iframe{
+    background-color: red;
+    margin-bottom: 25px;
+    height: 700px;
+    padding: 20px 20px 20px 20px;
+    border-radius: 50px;
+}
